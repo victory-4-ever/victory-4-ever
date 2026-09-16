@@ -11,7 +11,6 @@ I am developing my career in Data Analytics, with a focus on using data to gener
 
 - Microsoft Excel
 - Power BI
-- SQL
 - Data Cleaning
 - Data Analysis
 - Data Visualization
