@@ -52,7 +52,7 @@ An exploratory data analytics project examining global inflation and cost-of-liv
 ### 🌍 Global Inflation & Cost of Living Analysis
 
 An Excel and Power BI data analytics project examining global inflation trends and cost-of-living changes across countries and regions.
-🔗 [View Project](YOUR_PROJECT_LINK)
+🔗 [View  Project] https://github.com/victory-4-ever/data---analytics---portfolio/tree/main/Global%20Inflation%20Cost%20of%20Living%20Analysis
 
 💼 Professional Background
 
