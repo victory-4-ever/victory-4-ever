@@ -7,12 +7,15 @@ https://github.com/victory-4-ever/Global-Inflation-and-Cost-of-Living-Analysis.g
 
 I am a Finance and Accounting professional with extensive experience in accounting, financial reporting, auditing, reconciliation, and financial analysis.
 
+I use data to identify trends, investigate variances, support decision-making, and communicate business insights.
+
 I am developing my career in Data Analytics, with a focus on using data to generate insights, identify trends, support decision-making, and improve business performance.
 
 # 🛠️ Data Analytics Skills
 
 - Microsoft Excel
 - Power BI
+- SQL
 - Data Cleaning
 - Data Analysis
 - Data Visualization
@@ -43,6 +46,11 @@ An exploratory data analytics project examining global inflation and cost-of-liv
 - Correlation analysis
 - Regression analysis
 - Interactive Power BI dashboard
+
+  ## 📂 Projects
+  
+- 📊 **Global Inflation & Cost of Living Analysis** — Excel & Power BI
+
 
 💼 Professional Background
 
